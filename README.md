@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi there, I'm Prateek 👋
 
-<!--
-**prtkkrn/prtkkrn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently preparing for CAT 2025
+- 📊 I’m learning Data Science, Finance, and Analytics
+- 💼 Ex-Deloitte | Future MBA
+- 🧠 Always curious to explore AI and economics
 
-Here are some ideas to get you started:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prateekmallick&show_icons=true&theme=tokyonight)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prateekmallick&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=prateekmallick&theme=tokyonight)
+
+![Visitor Count](https://komarev.com/ghpvc/?username=prateekmallick&color=blue)
