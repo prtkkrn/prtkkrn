@@ -61,7 +61,7 @@
 <div align="center">
 
 <!-- Clean stats card -->
-<img src="https://github-readme-stats.vercel.app/api?username=prtkkrn&show_icons=true&include_all_commits=true&hide_border=true" height="150" />
+<img src="https://github-readme-stats.vercel.app/api?username=prtkkrn&show_icons=true&hide_border=true&cache_seconds=86400" height="150" />
 
 <!-- Streak -->
 <img src="https://streak-stats.demolab.com?user=prtkkrn&hide_border=true" height="150" />
