@@ -4,7 +4,7 @@
 # Hi, I’m Prateek Kiran Mallick 👋  
 **Data Science & Analytics | Finance enthusiast | ex-Deloitte**
 
-[Resume](https://drive.google.com/file/d/1dnHqILb_He_HITuCpRBb7E5yllg9Bn2d/view?usp=drive_link) • [LinkedIn]([YOUR_LINKEDIN_LIN](https://www.linkedin.com/in/prateek-kiran-mallick-1a0667148/)K) • [Email](mailto:prateekkiranmallick0909@gmail.com)  
+[Resume](https://drive.google.com/file/d/1dnHqILb_He_HITuCpRBb7E5yllg9Bn2d/view?usp=drive_link) • [LinkedIn]((https://www.linkedin.com/in/prateek-kiran-mallick-1a0667148/)) • [Email](mailto:prateekkiranmallick0909@gmail.com)  
 
 </div>
 
