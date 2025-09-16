@@ -4,7 +4,7 @@
 # Hi, I’m Prateek Kiran Mallick 👋  
 **Data Science & Analytics | Finance enthusiast | ex-Deloitte**
 
-[Resume](YOUR_RESUME_LINK) • [LinkedIn](YOUR_LINKEDIN_LINK) • [Email](mailto:YOUR_EMAIL)  
+[Resume](https://drive.google.com/file/d/1dnHqILb_He_HITuCpRBb7E5yllg9Bn2d/view?usp=drive_link) • [LinkedIn]([YOUR_LINKEDIN_LIN](https://www.linkedin.com/in/prateek-kiran-mallick-1a0667148/)K) • [Email](mailto:prateekkiranmallick0909@gmail.com)  
 
 </div>
 
@@ -38,14 +38,22 @@
 ---
 
 ### Featured projects
-> Short, outcome-focused bullets. Update links/titles to your repos.
 
-- **Market Volatility Forecaster** — ARIMA/Prophet on NSE data; rolling CV; **↓ MAPE by 12%**  
-  Repo: [link](YOUR_REPO_1)
-- **Bank Churn Classifier** — feature engineering + class imbalance handling; **AUC 0.87**  
-  Repo: [link](YOUR_REPO_2)
-- **Inflation Dashboard** — CPI components + interactive drilldowns in Plotly/Power BI  
-  Repo: [link](YOUR_REPO_3)
+- **Retail Store Analytics — store segmentation + time-series forecasting (SARIMA)**  
+  Weekly sales analysis for a retail chain; segments **45 stores** via K-Means and forecasts weekly demand with SARIMA (**RMSE ≈ \$2,648.33**).  
+  Repo: https://github.com/prtkkrn/Retail-Store-Analytics
+
+- **Shopper Spectrum — customer segmentation & recommendations**  
+  RFM-based customer clusters (with KMeans + silhouette) and an **item-based collaborative filtering** recommender, shipped with a Streamlit app for interactive insights.  
+  Repo: https://github.com/prtkkrn/shopper-spectrum
+
+- **GenAI Finance Bot — Streamlit RAG + factor screener**  
+  Upload PDFs (annual reports/decks) → **FAISS semantic search + LLM Q&A**, a daily **factor screener** (Value/Quality/Growth/Risk/Momentum), and a **Market Wrap** for NIFTY 50 & SENSEX.  
+  Repo: https://github.com/prtkkrn/genai-finance-bot
+
+- **Food Waste Management — EDA + SQL + Streamlit dashboard**  
+  End-to-end analysis with notebooks, SQL exploration/outputs, and an interactive Streamlit dashboard for insights and scenario checks.  
+  Repo: https://github.com/prtkkrn/food-waste-management
 
 ---
 
